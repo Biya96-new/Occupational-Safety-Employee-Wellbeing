@@ -51,7 +51,7 @@ An interactive dashboard was made using the cleaned data to analyse the workplac
   Departments like Operations, IT, and Finance show a consistent balance between environment and satisfaction.
 - Sales and IT departments record the highest overtime hours and absenteeism, and also higher accident counts.Departments like Operations and
   Marketing show lower overtime and absenteeism, indicating potentially healthier work-life balance and lower stress levels.
--	IT and Sales departments lead with high supervisor support (5.8, 5.69) and job satisfaction (3.0)—indicating a positive influence of support on satisfaction.
+-	IT and Sales departments lead with high supervisor support (5.8, 5.69) and job satisfaction (3.0) indicating a positive influence of support on satisfaction.
   HR and Marketing show relatively low support levels (2.9, 2.8) 
 -	Workplace accidents are highest in the 30–45 age range, peaking around age 40.
 
